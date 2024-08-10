@@ -9,4 +9,4 @@ The smart home system is based on an assumption of a one-room house which uses a
 is simulated by manually filling out UI fields, and the devices of course don't exist, so the actuators just write out which device they're turning on or off.
 This serves a purpose of a demo on how communication between agents in a modular smart home system might look, and the focus is more on the ways in which agents share data.
 
-
+To run the system, except for installing SPADE also change the "desktopXXXX" in agent addresses in all of the files to "localhost" or something else depending on what you're using. 
