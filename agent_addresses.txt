@@ -1,0 +1,15 @@
+blindsActuator,radiatorActuator,heaterActuator,acActuator,tempSensor,motionState,resourceState;tempcontroller@desktop-ms7hl0s
+electricitySensor,gasSensor;resourcecontroller@desktop-ms7hl0s
+motionSensor;motioncontroller@desktop-ms7hl0s
+;gassensor@desktop-ms7hl0s
+;electricitysensor@desktop-ms7hl0s
+;motionsensor@desktop-ms7hl0s
+;tempsensor@desktop-ms7hl0s
+;outlightsensor@desktop-ms7hl0s
+;inlightsensor@desktop-ms7hl0s
+;lightsactuator@desktop-ms7hl0s
+;blindsactuator@desktop-ms7hl0s
+lightsActuator,blindsActuator,tempController,motionState,outLightSensor,inLightSensor;lightcontroller@desktop-ms7hl0s
+;radiatoractuator@desktop-ms7hl0s
+;heateractuator@desktop-ms7hl0s
+;acactuator@desktop-ms7hl0s
